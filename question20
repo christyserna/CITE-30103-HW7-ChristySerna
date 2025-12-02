@@ -1,0 +1,1 @@
+//write a function void printStudent(struct Student s) that prints the fields of a passed-in Student/ in main(), populate one Student and call the function
