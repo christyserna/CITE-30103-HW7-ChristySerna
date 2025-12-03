@@ -1,1 +1,22 @@
 //input 10 ints in an array, find and print the smallest value
+
+
+#include <stdio.h> 
+
+
+int main() {
+
+int arr[10];
+int a;
+
+printf("Enter the 10 integers : ");
+
+for (int a; a < 10; a++ {
+
+
+
+}
+
+
+
+}
