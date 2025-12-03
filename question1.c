@@ -1,7 +1,7 @@
 // write a function float toCelsius(float f) that converts farenheit to celsius.
 // in main(), read f, call the function, and print the celsius value to two decimals
 
-#include <stdio.h>
+#include <stdio.h> 
 
 float toCelsius(float f) {
 return (f - 32.0) * (5.0/9.0);  //form for converting f to c
