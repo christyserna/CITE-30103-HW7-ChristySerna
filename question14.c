@@ -10,7 +10,7 @@ char firstString[100];
 char secondString[50];
 
 printf("enter the first string: ");
-if (scanf"%s", firstString) != 1) {
+if (scanf("%s", firstString) != 1) {
 printf("ERROR");
 return 1;
 }
