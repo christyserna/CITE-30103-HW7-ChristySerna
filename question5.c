@@ -25,9 +25,8 @@ printf("ERROR");
 
 else {
 result = factorial(n);
-printf("the result is 
-
+printf("the factorial of %d is %ld, n, result); 
+  }
 return 0;
 }
-}
-/////
+
