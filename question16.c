@@ -1,5 +1,5 @@
 //define struct Student { char name [40]; int roll; float marks; }; 
-//read one students data and print in neatly
+//read one students data and print
 
 #include <stdio.h>
 
