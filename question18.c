@@ -1,5 +1,5 @@
 //from an array of 5 Student records, find and print the student with the highest marks
-// print name, roll, mark
+// print name, roll, marks
 
 #include <stdio.h>
 
