@@ -1,5 +1,5 @@
 //create int square(int x) and call it through function pointer declared in main()
-// print the result
+// print the result.
 
 #include <stdio.h>
 #include <stdlib.h>
