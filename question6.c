@@ -1,4 +1,4 @@
-//read n ints into an array (max 100), compute and sum average and print both with labels
+//read n ints into an array (max 100), compute and sum average and print both with labels.
 
 
 #include <stdio.h>
