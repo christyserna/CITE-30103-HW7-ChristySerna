@@ -1,7 +1,7 @@
 //define struct Student { char name [40]; int roll; float marks; }; 
 //read one students data and print in neatly
 
-include <stdio.h>
+#include <stdio.h>
 
 struct Student {
 char name[40];
