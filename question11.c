@@ -1,4 +1,4 @@
-//read a string(no spaces) and compute its length without using strlen(), then print length
+//read a string(no spaces) and compute its length without using strlen(), then print length.
 
 #include <stdio.h>
 
