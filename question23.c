@@ -1,2 +1,14 @@
 //dynamically allocate memory for n integers using mallow
 //read the numbers, compute their average as float, print, and free from memory
+
+#include <stdio.h>
+#include <stdlib.h> 
+
+int main() {
+
+
+
+
+
+return 0;
+}
