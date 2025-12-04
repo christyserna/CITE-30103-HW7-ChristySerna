@@ -34,7 +34,7 @@ sum += arr[i];
 average = (float)sum / n;
 
 printf("the total sum is %d", sum);
-printf("the total average is %d", average);
+printf("the total average is %f", average);
 
 return 0; 
 }
