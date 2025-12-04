@@ -21,5 +21,6 @@ printf("number: ", num);
 printf("address stored in pointer: %d", (void*)functionPointer);
 printf("result: ", result);
 
+  
 return 0;
 }
