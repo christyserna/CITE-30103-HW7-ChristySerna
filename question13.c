@@ -3,10 +3,9 @@
 
 #include <stdio.h>
 
-////meow?
-
-
+////not entirely sure how to do that
 
 
 return 0;
+
 }
