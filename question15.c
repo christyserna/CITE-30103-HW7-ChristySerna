@@ -5,7 +5,7 @@ include <stdio.h>
 
 int main() {
 
-
+// kinda lost im ngl...
 
 
 return 0;
