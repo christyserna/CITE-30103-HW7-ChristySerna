@@ -1,6 +1,6 @@
 // input 5 integers into an array and print them using pointer arithmetic only (no [] indexing)
 
-include <stdio.h>
+#include <stdio.h>
 
 int main() {
 
