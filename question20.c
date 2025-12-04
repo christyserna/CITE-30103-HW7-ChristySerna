@@ -2,7 +2,7 @@
 //fields of a passed-in Student/ in main(), populate one Student and call the function
 //idk what it means by populate im ngl
 
-include <stdio.h>
+#include <stdio.h>
 #include <string.h>
 
 struct Student {
