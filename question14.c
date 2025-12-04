@@ -1,6 +1,6 @@
 //read two strings(no spaces) and manually cooncatenate the second to the first 
 //WITHOUT using strcat().
-//print result
+//print result.
 
 #include <stdio.h>
 
