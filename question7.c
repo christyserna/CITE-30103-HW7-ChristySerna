@@ -1,4 +1,4 @@
-//input 10 ints in an array, find and print the smallest value
+//input 10 ints in an array, find and print the smallest values
 
 
 #include <stdio.h> 
