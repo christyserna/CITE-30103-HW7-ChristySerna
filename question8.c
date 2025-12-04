@@ -1,5 +1,5 @@
 //given an array of ints, couunt how many are even and count how many are odd.
-// print both counts
+// print both count
 
 include <stdio.h>
 
