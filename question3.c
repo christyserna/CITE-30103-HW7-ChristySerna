@@ -1,5 +1,5 @@
 //implement int isPrime(int n), that returns 1 if n is prime, 0 otherwise.
-//in main(), read n and print Prime or 'Not Prime'
+//in main(), read n and print Prime or 'Not Prime'.
 
 
 #include <stdio.h> //primes are only divided by itself and 1
