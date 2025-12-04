@@ -1,5 +1,5 @@
 //implement a recursive function long factorial(int n). if n < 0, 
-//print an error message. otherwise print n!
+//print an error message. otherwise print n!.
 
 //calls itself
 
