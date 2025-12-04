@@ -1,6 +1,6 @@
 // write a function int max3(int a, int b, int c) that returns the largest 
 // of three ints WITHOUT using logical operators.
-// print result 
+// print results
 
 #include <stdio.h>
 
