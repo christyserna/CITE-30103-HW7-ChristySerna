@@ -1,5 +1,5 @@
 //read 5 ints and reverse them in place in the same array, NOT using a second array
-//print reversed array
+//print reversed array.
 
 #include <stdio.h>
 
