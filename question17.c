@@ -2,6 +2,13 @@
 
 include <stdio.h>
 
+struct Student {
+char name[];
+int ---
+float ---;
+};
+
+
 int main() {
 
 
